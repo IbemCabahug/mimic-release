@@ -1,8 +1,8 @@
-# 🎭 Mimic v1.0.0 — Initial Release
+# 🎭 Mimic v1.1.0 — Release
 
 > **A psychological deception party game with an armored, hardware-encrypted privacy vault hidden in plain sight.**
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0%20(Initial%20Launch)-crimson)](../../releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.1.0%20(%20Launch)-crimson)](../../releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Android%207.0%2B-blue)](https://android.com)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline%20%7C%20Zero%20Tracking-brightgreen)](#privacy--permissions)
 [![License](https://img.shields.io/badge/License-MIT-orange)](#-license)
@@ -11,7 +11,7 @@
 
 ## Welcome to Mimic
 
-We are thrilled to introduce **Mimic (v1.0.0)** — an application built around a simple principle: **Plausible deniability through true utility.**
+We are thrilled to introduce **Mimic (v1.1.0)** — an application built around a simple principle: **Plausible deniability through true utility.**
 
 Most private vaults rely on fake calculators or suspicious disguised icons that invite curiosity. Mimic is different: to anyone holding your phone, it is a **fully functional, interactive horror-themed party game**. Behind that disguise lies a military-grade personal vault designed to protect your most sensitive photos, videos, notes, and documents.
 
@@ -19,9 +19,9 @@ Most private vaults rely on fake calculators or suspicious disguised icons that 
 
 ## Download & Install
 
-Get the official v1.0.0 release APK:
+Get the official v1.1.0 release APK:
 
-**[Download Latest APK (`mimic-v1.0.0.apk`)](../../releases/latest)**
+**[Download Latest APK (`mimic-v1.1.0.apk`)](../../releases/latest)**
 
 ### Android Installation Steps
 1. Download the `.apk` file directly to your phone.
